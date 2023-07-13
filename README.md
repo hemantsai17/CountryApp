@@ -2,7 +2,7 @@
 My Countries App
   </h3>
     <p align="center">
-  A simple coffee biling app made with javascript and bulma
+  A countries app made with React Native and Apollo Client
     <br />
 </p>
 
