@@ -39,5 +39,6 @@ yarn
 
 3. Run the local development server
 
+npx expo start
 ```
  
